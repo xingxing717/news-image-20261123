@@ -1,3 +1,7 @@
+[![competition](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/xingxing717/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/xingxing717/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
+
 # The World in One Day — Monday 23 November 2026
 
 A one-page front page summing up the world's news of Monday 23 November 2026:
